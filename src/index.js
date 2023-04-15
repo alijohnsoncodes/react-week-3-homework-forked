@@ -12,6 +12,14 @@ root.render(
     <div className="App">
       <h1>Weather App</h1>
       <WeatherSearch />
+
+      <p>
+        This is a
+        <a href="https://github.com/alijohnsoncodes/react-week-3-homework-forked.git">
+          Open Source Code
+        </a>
+        created by Ali Johnson
+      </p>
     </div>
   </StrictMode>
 );
